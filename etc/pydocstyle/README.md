@@ -24,7 +24,7 @@ This directory contains [pydocstyle][pydocstyle] configuration files.
 
 <section class="links">
 
-[pydocstyle]: http://pydocstyle.com/
+[pydocstyle]: https://github.com/PyCQA/pydocstyle
 
 </section>
 
